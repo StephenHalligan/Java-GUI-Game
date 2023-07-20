@@ -1,3 +1,7 @@
+[Project Demo - Youtube](https://youtu.be/zYwZ2UAYvXg
+)
+
+
 # Instructions
 
 This game is fairly self explanitory - first, you select the difficulty. The game has 3 different difficulty settings - easy, normal and hard. 
@@ -45,3 +49,4 @@ There are many little things in the project that I am quite proud of also, such 
                     }
 ```
 	^ Example of the difficulty selector using the BeatDetect setSensitivity function
+ 
